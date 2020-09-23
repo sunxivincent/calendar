@@ -28,8 +28,12 @@
     color: #333;
 }
 
-.elegant_todo-circle {
-    border-color: #161035;
+.elegant_log-in-todo-circle {
+    border-color: #E79EA8;
+}
+
+.elegant_completed-todo-circle {
+  border-color: #9EE7DD;
 }
 
 .elegant_todo-dot {
