@@ -160,7 +160,7 @@
 
 /* 日期圆圈标记 */
 .todo-circle {
-    border-width: 1rpx;
+    border-width: 4rpx;
     border-style: solid;
     box-sizing: border-box;
 }
